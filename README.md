@@ -24,4 +24,17 @@ This repository contains a Flask web application for predicting stock prices usi
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ChellaVigneshKP/stock-prediction.git
+   ```
+2. Start the Flask application:
+   ```bash
+   python app.py
+   ```
+3. Navigate to http://localhost:5000 in your web browser.
+4. Enter a stock ticker symbol and a recent date to get predictions and backtesting results.
+
+## Screeshots
+![image](https://github.com/ChellaVigneshKP/stock-prediction/assets/97314418/964acfc0-5e28-4cee-b7df-682af6996665)
+![image](https://github.com/ChellaVigneshKP/stock-prediction/assets/97314418/95f5e097-733f-4941-b4e6-cfc4eae74d35)
+
+
